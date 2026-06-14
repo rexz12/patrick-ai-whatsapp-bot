@@ -1,0 +1,41 @@
+PATRICK AI - 3
+
+ Apa aja yang di update?
+
+[  UPDATE ]
+
+- Pengoptimalan fitur dungeon.
+- Perombakan pada assets. Di versi 3 dan seterusnya, Patrick akan memakai URL yang bisa kalian lihat di config.js bagian object assets.
+- .sc — Ambil script.
+- Penambahan variant audiomenu, jadi setiap menu memiliki audio dengan tampilan yang berbeda.
+- Perubahan pada menu, allmenu, menucat, dan reply. Kini hanya tersedia versi 2/3/4, tetapi dalam versi terbaik.
+- Mengoptimalkan fitur tqto dan getplugin agar lebih minim lag.
+- Mengubah owner variant 2 ke style baru.
+- Memperbaiki command gita, flux-pro, gpt4o, dan ai.
+- Memperbaiki command hdvid.
+- .smemevid — Mirip seperti smeme, tetapi versi video.
+- Memperbaiki patrickbanana, text2img, to3d, dan fitur sejenisnya.
+- Memperbaiki spotifydl.
+- Memperbaiki totalchat yang sebelumnya ghaib.
+- Memperbaiki igstalk, ytstalk, tiktokstalk, dan githubstalk.
+- .npmstalk — Stalk package NPM.
+- Memperbaiki getpaste.
+- Memperbaiki hd.
+- upch dan playch kini memiliki waveform.
+- .gsmarena — Cek informasi HP.
+- .movieku — Cari movie.
+- .cekxl — Cek nomor XL.
+- Penambahan sekitar 7 provider baru di tourl.
+- Improve carbon.
+- Penambahan welcometype dan goodbyetype versi 6.
+- Memperbaiki welcometype v5 yang sebelumnya tidak ngetag.
+- Sedikit mengubah respons dari autosholat.
+- .autosambut — Menyambut owner setelah offline dalam waktu lama.
+- Menambahkan kyubigame, game yang mirip dungeon.
+- .notifenergi — Jika diaktifkan, setiap user yang menggunakan command berlimit/energi akan mendapatkan notifikasi pengurangan limit/energi.
+- similarity dengan tampilan baru.
+- Penambahan 10+ fitur RPG.
+- .setaudioallmenu — Mirip seperti setaudiomenu, tetapi untuk allmenu. Jika diaktifkan, allmenu akan memiliki audio.
+- Memperbaiki command neko, loli, waifu, dan sejenisnya. Kini tersedia tombol "Lanjut Cari Lagi".
+- Penambahan variant brat: bratgojo, bratvermeilvid, dan bratgojovid.
+- .topixel — Burikkan gambar.
