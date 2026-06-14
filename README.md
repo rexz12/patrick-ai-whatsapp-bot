@@ -19,8 +19,8 @@ Bot WhatsApp multi-fitur berbasis Node.js yang dilengkapi AI, downloader, tools,
 
 Clone repository:
 
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/rexz12/patrick-ai-whatsapp-bot
+cd patrick-ai-whatsapp-bot
 
 Install dependencies:
 
